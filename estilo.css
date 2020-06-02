@@ -1,0 +1,21 @@
+div.navbar-nav{
+    text-align: center;
+    font-size: 15px;
+    padding-left: 100px;
+}
+#top{
+    text-align: right;
+    padding: 10px;
+}
+#teste{
+    border: 3px solid black;
+    height: 300px;
+}
+#test{
+    border: 3px solid red;
+    height: 300px;
+}
+#testee{
+    border: 3px solid blue;
+    height: 300px;
+}
